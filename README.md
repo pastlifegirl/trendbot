@@ -1,0 +1,2 @@
+# trendbot
+Twitterトレンドから適当に拾ってきて投稿するよくあるbotの雛形
